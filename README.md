@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm building things 👋
 
-<!--
-**Nikses/Nikses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Part-time tech enthusiast currently trying to make computers do useful things.
 
-Here are some ideas to get you started:
+## Few words that describe me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Self-Diagnosed CEO; COO (Chief Overthinking Officer); CPO (Chief Pivot Officer) at nikses.com
+* Trylingual; LLM-Augmented
+
+## What I'm doing
+
+* 🚀 Building a tech startup
+* 🧠 Learning more about tech, business, and how things actually work
+* 🔎 Asking too many “why does this work like that?” questions
+
+## Languages
+
+* English - fluent
+* Russian - fluent
+* French - learning (B1, surviving cafés and bureaucracy)
+* Chinese - beginner (currently able to confuse people)
+* Confusion - fluent
+
+## Tools
+
+* MacOS
+* Android
+* Curiosity
+* Claude
+* Stack Overflow
+
+## Interests
+
+* Technology
+* Startups & business
+* Languages and the logic behind words
+* Building something from nothing
+
+## Fun fact
+
+If something exists, I will eventually try to understand **how and why it works**.
+
+---------
+
+*Currently turning curiosity into projects.*
