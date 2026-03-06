@@ -1,14 +1,12 @@
 # Hi, I'm building things 👋
 
-Part-time tech enthusiast currently trying to make computers do useful things.
-
-## Few words that describe me
-
+* Part-time tech enthusiast
 * Self-Diagnosed CEO; COO (Chief Overthinking Officer); CPO (Chief Pivot Officer) at nikses.com
 * Trylingual; LLM-Augmented
 
 ## What I'm doing
 
+* 💻 Currently trying to make computers do useful things .
 * 🚀 Building a tech startup
 * 🧠 Learning more about tech, business, and how things actually work
 * 🔎 Asking too many “why does this work like that?” questions
